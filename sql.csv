@@ -1,0 +1,8 @@
+student_id,student_fname,student_lname,student_mname,student_email,student_phone,student_alternate_phone,enrollement_date,select_course,year_of_exp,student_company,batch_date,source_of_joinig,location
+1,sunil,kumar,lal,sunilkumar753@gmail.com,2323232563,89856498989,2023-03-26 17:43:47,1,12,wipro,10-02-2022,facebook,delhi
+2,mohit,sharma,pandit,mohit753@gmail.com,23256832323,8989896989,2023-03-26 17:43:47,1,5,tcs,10-04-2022,instagram,gurgram
+3,jai,tanwar,kaushik,jait753@gmail.com,2323256323,8989898989,2023-03-26 17:43:47,1,9,wipro,10-10-2022,linkedin,delhi
+5,raju,tanwar,raj,rajusinght753@gmail.com,2359232323,8989895989,2023-03-26 17:45:46,3,5,microsoft,10-12-2022,youtube,faridabad
+6,rahul,pandit,singh,rahulsinght753@gmail.com,9868360361,7878787878,2023-03-26 17:47:59,4,15,jiomart,08-02-2022,instagram,banglore
+7,dipendar,tanwar,raj,dineshsinght753@gmail.com,2323232323,8989898989,2023-03-26 17:47:59,3,8,microsoft,10-02-2022,facebook,chandigarh
+8,neeraj,tanwar,raj,neerajinght753@gmail.com,23232323,89898989,2023-03-30 12:05:29,3,8,,10-02-2022,facebook,chandigarh
